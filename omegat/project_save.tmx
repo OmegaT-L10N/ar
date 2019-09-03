@@ -6,6 +6,24 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190903T201458Z" creationid="student" creationdate="20190903T201458Z">
+        <seg>-h, --مساعدة
+		عرض معلومات الاستخدام.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190903T201409Z" creationid="student" creationdate="20190903T201409Z">
+        <seg>استدع `team -h` للاطلاع على التفاصيل.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="AR" changeid="student" changedate="20190903T195009Z" creationid="student" creationdate="20190903T195009Z">
