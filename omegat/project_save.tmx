@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190903T201337Z" creationid="student" creationdate="20190903T201337Z">
+        <seg>خيارات:
+	لا شيء: أطلق واجهة المستخدم الرسومية
+	مسار المشروع فقط: أطلق واجهة المستخدم الرسومية وحمل مشروعاً معيناً
+	فريق
+		أداة مشاريع الفرق.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="AR" changeid="student" changedate="20190903T200816Z" creationid="student" creationdate="20190903T200816Z">
