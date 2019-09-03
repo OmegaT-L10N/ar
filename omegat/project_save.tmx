@@ -38,12 +38,12 @@
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190903T201337Z" creationid="student" creationdate="20190903T201337Z">
+      <tuv lang="AR" changeid="student" changedate="20190903T201927Z" creationid="student" creationdate="20190903T201337Z">
         <seg>خيارات:
 	لا شيء: أطلق واجهة المستخدم الرسومية
-	مسار المشروع فقط: أطلق واجهة المستخدم الرسومية وحمل مشروعاً معيناً
+	مسار المشروع فقط: أطلق واجهة المستخدم الرسومية وحمّل مشروعاً معيناً
 	فريق
-		أداة مشاريع الفرق.</seg>
+		أداة مشاريع الفِرَق.</seg>
       </tuv>
     </tu>
     <tu>
