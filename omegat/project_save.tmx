@@ -12,6 +12,14 @@
         <seg>أوميجاتي</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190903T200816Z" creationid="student" creationdate="20190903T200816Z">
+        <seg>الاستخدام: java -jar OmegaT.jar [&lt;خيارات&gt;] [&lt;مسار المشروع&gt;]</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
