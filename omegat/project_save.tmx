@@ -16,6 +16,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190904T194903Z" creationid="student" creationdate="20190904T194903Z">
+        <seg>--disable-project-locking
+		لا تحاول إيصاد ملف المشروع omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
