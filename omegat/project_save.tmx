@@ -16,6 +16,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190904T195120Z" creationid="student" creationdate="20190904T195120Z">
+        <seg>--disable-location-save
+		لا تتذكر آخر مجلد مفتوح في مستكشف الملفات.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
@@ -40,10 +50,10 @@
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190904T192041Z" creationid="student" creationdate="20190903T202129Z">
+      <tuv lang="AR" changeid="student" changedate="20190904T195020Z" creationid="student" creationdate="20190903T202129Z">
         <seg>--remote-project
-		أنزل ملف مشروع.أوميجاتي عبر العنوان المحدد لـ &lt;مسار
-		المشروع&gt; وحمّل المشروع.</seg>
+		أنزل ملف omegat.project عبر العنوان المحدد في &lt;project
+		path&gt; وحمّل المشروع.</seg>
       </tuv>
     </tu>
     <tu>
