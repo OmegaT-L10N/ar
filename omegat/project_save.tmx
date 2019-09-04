@@ -46,6 +46,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190904T195351Z" creationid="student" creationdate="20190904T195351Z">
+        <seg>--no-team
+		ألغ وظيفة المشروع الجماعي.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
