@@ -10,10 +10,10 @@
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190903T202129Z" creationid="student" creationdate="20190903T202129Z">
+      <tuv lang="AR" changeid="student" changedate="20190904T183611Z" creationid="student" creationdate="20190903T202129Z">
         <seg>--مشروع عن بعد
-		Download an omegat.project file from the URL given as &lt;project
-		path&gt; and load the project.</seg>
+		أنزل ملف مشروع.أوميجاتي عبر العنوان المتوفر على شاكلة &lt;مسار
+		المشروع&gt; وحمّل المشروع.</seg>
       </tuv>
     </tu>
     <tu>
