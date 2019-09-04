@@ -114,12 +114,12 @@
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190904T185504Z" creationid="student" creationdate="20190903T201337Z">
+      <tuv lang="AR" changeid="student" changedate="20190904T195416Z" creationid="student" creationdate="20190903T201337Z">
         <seg>خيارات:
 None: أطلق واجهة المستخدم الرسومية
 	Project path only: أطلق واجهة المستخدم الرسومية وحمّل مشروعاً معيناً
 	team
-		أداة مشاريع الفِرَق.</seg>
+		أداة المشاريع الجماعية.</seg>
       </tuv>
     </tu>
     <tu>
