@@ -38,6 +38,20 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190904T193341Z" creationid="student" creationdate="20190904T193341Z">
+        <seg>--resource-bundle=&lt;مسار&gt;
+		ملف خصائص جافا .properties للاطلاع على
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
