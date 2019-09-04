@@ -9,9 +9,9 @@
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190904T183959Z" creationid="student" creationdate="20190904T183959Z">
-        <seg>--نمط=[console-translate|console-pseudotranslatetmx|console-align]
-		Specify a mode other than default (GUI).</seg>
+      <tuv lang="AR" changeid="student" changedate="20190904T191331Z" creationid="student" creationdate="20190904T183959Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		لتحديد نمط آخر غير النمط الافتراضي (GUI).</seg>
       </tuv>
     </tu>
     <tu>
