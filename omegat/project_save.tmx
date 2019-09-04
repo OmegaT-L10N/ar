@@ -30,9 +30,9 @@
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190904T185916Z" creationid="student" creationdate="20190903T202129Z">
+      <tuv lang="AR" changeid="student" changedate="20190904T192041Z" creationid="student" creationdate="20190903T202129Z">
         <seg>--remote-project
-		أنزل ملف مشروع.أوميجاتي عبر العنوان المتوفر على شاكلة &lt;مسار
+		أنزل ملف مشروع.أوميجاتي عبر العنوان المحدد لـ &lt;مسار
 		المشروع&gt; وحمّل المشروع.</seg>
       </tuv>
     </tu>
