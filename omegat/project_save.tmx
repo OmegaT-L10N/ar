@@ -9,9 +9,9 @@
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190904T191331Z" creationid="student" creationdate="20190904T183959Z">
+      <tuv lang="AR" changeid="student" changedate="20190904T191339Z" creationid="student" creationdate="20190904T183959Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		لتحديد نمط آخر غير النمط الافتراضي (GUI).</seg>
+		لتحديد نمط آخر غير النمط الافتراضي (واجهة المستخدم الرسومية).</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +66,14 @@ None: أطلق واجهة المستخدم الرسومية
 	Project path only: أطلق واجهة المستخدم الرسومية وحمّل مشروعاً معيناً
 	team
 		أداة مشاريع الفِرَق.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190904T191412Z" creationid="student" creationdate="20190904T191412Z">
+        <seg>انظر أدناه للاطلاع على التفاصيل.</seg>
       </tuv>
     </tu>
     <tu>
