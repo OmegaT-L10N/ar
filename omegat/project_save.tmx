@@ -31,8 +31,8 @@
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190903T201458Z" creationid="student" creationdate="20190903T201458Z">
-        <seg>-h, --مساعدة
+      <tuv lang="AR" changeid="student" changedate="20190904T185606Z" creationid="student" creationdate="20190903T201458Z">
+        <seg>-h, --help
 		عرض معلومات الاستخدام.</seg>
       </tuv>
     </tu>
