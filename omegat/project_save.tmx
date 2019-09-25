@@ -100,7 +100,17 @@
       </tuv>
       <tuv lang="AR" changeid="student" changedate="20190925T190031Z" creationid="student" creationdate="20190925T190031Z">
         <seg>--script=&lt;مسار&gt;
-		ملف سكربت يُنَفَّذ أثناء أحداث متعلقة بالمشروع.</seg>
+		ملف سكربت يُنَفَّذ أثناء أحداث متعلقة بالمشروع.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T194724Z" creationid="student" creationdate="20190925T194724Z">
+        <seg>--tag-validation=[abort|warn]
+		التحقق من صحة الوسوم.</seg>
       </tuv>
     </tu>
     <tu>
