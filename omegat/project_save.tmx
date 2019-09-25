@@ -11,10 +11,10 @@
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190925T182611Z" creationid="student" creationdate="20190925T182611Z">
+      <tuv lang="AR" changeid="student" changedate="20190925T183258Z" creationid="student" creationdate="20190925T182611Z">
         <seg>--ITokenizer=&lt;classname&gt;
 	--ITokenizerTarget=&lt;classname&gt;
-		محلل مفردات اللغة المصدر أو الهدف الذي يجب استخدامه (يتجاوز إعدادات المشروع).</seg>
+		محلل مفردات اللغة المصدر أو الهدف الواجب استخدامه (يلغي إعدادات المشروع).</seg>
       </tuv>
     </tu>
     <tu>
@@ -117,10 +117,10 @@
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190925T183201Z" creationid="student" creationdate="20190925T183201Z">
+      <tuv lang="AR" changeid="student" changedate="20190925T185547Z" creationid="student" creationdate="20190925T183201Z">
         <seg>خيارات نمط الاستخدام بدون واجهة رسومية:
 	--quiet
-		Reduce output to command line stdout.</seg>
+		تقليص الخرج المُوجَّه للإخراج المعياري لسطر الأوامر.</seg>
       </tuv>
     </tu>
     <tu>
