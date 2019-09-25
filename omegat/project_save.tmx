@@ -133,6 +133,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T200312Z" creationid="student" creationdate="20190925T200312Z">
+        <seg>نمط Console-translate:
+	--source-pattern=&lt;النمط&gt;
+		قائمة بيضاء مبنية على التعابير النظامية لتحديد الملفات المصدر الواجب معالجتها.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="AR" changeid="student" changedate="20190903T201409Z" creationid="student" creationdate="20190903T201409Z">
