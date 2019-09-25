@@ -113,6 +113,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T183201Z" creationid="student" creationdate="20190925T183201Z">
+        <seg>خيارات نمط الاستخدام بدون واجهة رسومية:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="AR" changeid="student" changedate="20190903T195009Z" creationid="student" creationdate="20190903T195009Z">
@@ -133,6 +145,14 @@ None: أطلق واجهة المستخدم الرسومية
 	Project path only: أطلق واجهة المستخدم الرسومية وحمّل مشروعاً معيناً
 	team
 		أداة المشاريع الجماعية.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T182721Z" creationid="student" creationdate="20190925T182721Z">
+        <seg>انظر OmegaT.jar/META-INF/MANIFEST.MF للاطلاع على القيم الصالحة.</seg>
       </tuv>
     </tu>
     <tu>
