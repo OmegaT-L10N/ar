@@ -95,6 +95,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T190031Z" creationid="student" creationdate="20190925T190031Z">
+        <seg>--script=&lt;مسار&gt;
+		ملف سكربت يُنَفَّذ أثناء أحداث متعلقة بالمشروع.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -120,7 +130,7 @@
       <tuv lang="AR" changeid="student" changedate="20190925T185547Z" creationid="student" creationdate="20190925T183201Z">
         <seg>خيارات نمط الاستخدام بدون واجهة رسومية:
 	--quiet
-		تقليص الخرج المُوجَّه للإخراج المعياري لسطر الأوامر.</seg>
+		تقليص الخرج المُوجَّه للإخراج المعياري لسطر الأوامر.</seg>
       </tuv>
     </tu>
     <tu>
