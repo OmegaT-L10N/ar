@@ -133,6 +133,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T200736Z" creationid="student" creationdate="20190925T200736Z">
+        <seg>نمط Console-pseudotranslatetmx:
+	--pseudotranslatetmx=&lt;المسار&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-translate mode:
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
