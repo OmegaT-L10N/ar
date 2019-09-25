@@ -6,6 +6,19 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T182611Z" creationid="student" creationdate="20190925T182611Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		محلل مفردات اللغة المصدر أو الهدف الذي يجب استخدامه (يتجاوز إعدادات المشروع).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
