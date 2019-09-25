@@ -108,9 +108,9 @@
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
-      <tuv lang="AR" changeid="student" changedate="20190925T194724Z" creationid="student" creationdate="20190925T194724Z">
+      <tuv lang="AR" changeid="student" changedate="20190925T195548Z" creationid="student" creationdate="20190925T194724Z">
         <seg>--tag-validation=[abort|warn]
-		التحقق من صحة الوسوم.</seg>
+		التحقق من صلاحية الوسوم.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121,6 +121,14 @@
       <tuv lang="AR" changeid="student" changedate="20190904T185606Z" creationid="student" creationdate="20190903T201458Z">
         <seg>-h, --help
 		عرض معلومات الاستخدام.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T195540Z" creationid="student" creationdate="20190925T195540Z">
+        <seg>إبطال: غادر مع إصدار خطأ إذا كانت الوسوم غير صالحة.</seg>
       </tuv>
     </tu>
     <tu>
@@ -189,6 +197,14 @@ None: أطلق واجهة المستخدم الرسومية
       </tuv>
       <tuv lang="AR" changeid="student" changedate="20190903T200816Z" creationid="student" creationdate="20190903T200816Z">
         <seg>الاستخدام: java -jar OmegaT.jar [&lt;خيارات&gt;] [&lt;مسار المشروع&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="AR" changeid="student" changedate="20190925T195718Z" creationid="student" creationdate="20190925T195718Z">
+        <seg>تحذير: بلّغ عن الوسوم الغير صالحة عبر الإخراج المعياري.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
